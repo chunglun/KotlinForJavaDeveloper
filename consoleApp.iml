@@ -30,18 +30,53 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test-junit5:1.6.20" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test:1.6.20" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.6.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.2.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.6.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.6.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.6.0" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.20" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.6.20" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.20" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains:annotations:13.0" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.20" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test-junit5:1.6.20" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test:1.6.20" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.kotlintest:kotlintest-runner-junit5:3.4.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.kotlintest:kotlintest-core:3.4.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlinx:kotlinx-coroutines-core-common:1.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.kotlintest:kotlintest-assertions:3.4.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.arrow-kt:arrow-core-data:0.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.arrow-kt:arrow-annotations:0.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.kindedj:kindedj:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.univocity:univocity-parsers:2.8.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.github.wumpz:diffutils:2.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.eclipse.jgit:org.eclipse.jgit:4.4.1.201607150455-r" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.kotlintest:kotlintest-runner-jvm:3.4.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.kotlintest:kotlintest-extensions:3.4.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: commons-io:commons-io:2.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.github.classgraph:classgraph:4.8.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.arrow-kt:arrow-core-extensions:0.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.arrow-kt:arrow-typeclasses:0.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.kotlintest:kotlintest-runner-console:3.4.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.sourceforge.argparse4j:argparse4j:0.8.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.github.ajalt:mordant:1.2.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.github.ajalt:colormath:1.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-suite-api:1.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-launcher:1.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.mockk:mockk:1.12.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.mockk:mockk-common:1.12.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.mockk:mockk-dsl:1.12.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.mockk:mockk-dsl-jvm:1.12.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.mockk:mockk-agent-jvm:1.12.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.mockk:mockk-agent-api:1.12.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.mockk:mockk-agent-common:1.12.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.objenesis:objenesis:3.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.bytebuddy:byte-buddy:1.12.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.bytebuddy:byte-buddy-agent:1.12.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-reflect:1.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
   </component>
 </module>
